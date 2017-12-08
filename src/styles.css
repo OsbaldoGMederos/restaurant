@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgb(197, 173, 143);
+}
+
+/* .btn {
+    background-color: rgb(197, 173, 143);
+    color: black;
+    border-color: rgb(197, 173, 143);
+} */
+
+.check {
+    opacity: 0.5;
+    color: #996;
+    background-color: black;
+    color: white;
+    
+    margin: .5%;
+}

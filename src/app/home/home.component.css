@@ -1,0 +1,38 @@
+
+.bg {
+    /* background-image: url("rest.jpg"); */
+    /* background-image: url("./../../assets/restaurant.jpeg"); */
+    
+        /* Full height */
+        /* height: 100%; */
+    height: 100%;
+    position: absolute;
+    right: auto;
+    left: auto;
+    
+
+
+    
+    /* Center and scale the image nicely */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.btn {
+    position: absolute;
+    
+}
+
+h2 {
+    font-size: 4em;
+}
+
+.numeroMesa {
+    position: absolute;
+    right: 3em;
+}
+
+.saludo {
+    font-size: 5em;
+}

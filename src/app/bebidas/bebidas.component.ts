@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+// import { oracledb } from '../../../node_modules/oracledb';
+// const oracledb = require('oracledb');
 
 @Component({
   selector: 'app-bebidas',
@@ -6,8 +8,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./bebidas.component.css']
 })
 export class BebidasComponent implements OnInit {
-
-  constructor() { }
 
   ngOnInit() {
   }
